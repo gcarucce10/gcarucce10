@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Computer Science student at <strong>UNESP</strong> <br/>
-  💻 Passionate about Machine Learning and Cloud Computing <br/>
+  💻 Interested in Machine Learning and Cloud Computing <br/>
   🔧 Currently diving into Back-End Development and RESTful API design
 </p>
 
@@ -43,4 +43,4 @@
 
 ---
 
-Feel free to explore my repositories and connect — I’m always up for learning something new and building cool stuff! 🚀
+Feel free to explore my repositories and connect! 🚀
