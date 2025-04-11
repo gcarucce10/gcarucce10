@@ -42,12 +42,9 @@ Currently, I'm focusing my studies on **Back-End Development**, including RESTfu
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce10&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce10&layout=compact&theme=radical" width="300"/>
 </p>
 
 ---
