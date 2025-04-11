@@ -1,19 +1,15 @@
-<h1 align="center">Hey there 👋 I'm Gabriel</h1>
+<h1 align="center">Hi there 👋, I'm Gabriel Carucce</h1>
 
 <p align="center">
-  🎓 Computer Science student at <strong>UNESP</strong> <br/>
-  💻 Interested in Machine Learning and Cloud Computing <br/>
-  🔧 Currently diving into Back-End Development and RESTful API design
+  <em>Computer Science student at UNESP</em><br/>
 </p>
 
 ---
 
-### 📫 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/gcarucce10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🧠 About Me
+
+I'm a 21-year-old software developer with a strong interest in **Machine Learning** and **Cloud Computing**.  
+Currently, I'm focusing my studies on **Back-End Development**, including RESTful APIs and related technologies.
 
 ---
 
@@ -24,9 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" alt="Express.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -34,11 +30,24 @@
 
 ---
 
+### 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/gcarucce10/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce10&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce10&layout=compact&theme=radical" width="300"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
