@@ -8,8 +8,8 @@
 
 ### 🧠 About Me
 
-I'm a 21-year-old software developer with a strong interest in **Machine Learning**, **Cloud Computing** and **Data Science**.  
-Currently, I'm focusing my studies on **Back-End Development**, including RESTful APIs and related technologies.
+I'm a 21-year-old software developer with a strong interest in **Artificial Inteligence**, **Cloud Computing** and **Full Stack Development**.  
+Currently, I'm focusing my studies on **Back-End Development**, including RESTful APIs and related technologies and Front-End Frameworks.
 
 ---
 
