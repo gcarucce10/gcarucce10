@@ -15,13 +15,13 @@ Currently, I'm focusing my studies on Back-End Development (RESTful APIs), Front
 
 ### 💻 Languages & Tools
 
-<div align="letf">
+<div align="left">
 
   <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=python,ts,java,cs,nodejs,express,flask" height="48" alt="Languages"/>
   
   <!-- Infra / Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,git" height="48" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,git,linux" height="48" alt="Tools"/>
   
 </div>
 
