@@ -9,24 +9,21 @@
 ### 🧠 About Me
 
 I'm a 22-year-old software developer with a strong interest in **Artificial Inteligence**, **Cloud Computing** and **Full Stack Development**.  
-Currently, I'm focusing my studies on **Back-End Development**, including RESTful APIs and related technologies and Front-End Frameworks.
+Currently, I'm focusing my studies on Back-End Development (RESTful APIs), Front-End Frameworks and Cloud Infrastructure.
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Languages & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" alt="Express.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
+<div align="center">
+
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=python,ts,java,nodejs,express,flask" height="48" alt="Languages"/>
+  
+  <!-- Infra / Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,git" height="48" alt="Tools"/>
+  
+</div>
 
 ---
 
