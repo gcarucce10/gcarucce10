@@ -29,11 +29,11 @@ Currently, I'm focusing my studies on Back-End Development (RESTful APIs), Front
 
 ### 📫 Connect with Me
 
-<p>
+<div align="left">
   <a href="https://www.linkedin.com/in/gcarucce10/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ---
 
