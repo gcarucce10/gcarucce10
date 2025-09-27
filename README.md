@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a 21-year-old software developer with a strong interest in **Artificial Inteligence**, **Cloud Computing** and **Full Stack Development**.  
+I'm a 22-year-old software developer with a strong interest in **Artificial Inteligence**, **Cloud Computing** and **Full Stack Development**.  
 Currently, I'm focusing my studies on **Back-End Development**, including RESTful APIs and related technologies and Front-End Frameworks.
 
 ---
@@ -42,10 +42,19 @@ Currently, I'm focusing my studies on **Back-End Development**, including RESTfu
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce10&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce10&layout=compact&theme=radical" width="300"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gcarucce10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarucce10&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=gcarucce10&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+  
+</div>
 
 ---
 
